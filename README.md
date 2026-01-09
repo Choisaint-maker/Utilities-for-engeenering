@@ -9,7 +9,7 @@ The complete source code for each tool is located in its corresponding **`srcNAM
 
 ## 📌 Included Tools
 
-### 1. Quadratic Equation Solver
+### 1. Quadratic Equation Solver (EcuacionCuadratica)
 A calculator that solves quadratic equations using the general formula.  
 - Supports real and complex solutions  
 - Simple interface ideal for math and physics coursework  
@@ -18,7 +18,7 @@ A calculator that solves quadratic equations using the general formula.
 
 ---
 
-### 2. Resistor Color Code Calculator
+### 2. Resistor Color Code Calculator(ColorResistor)
 A tool for interpreting the color bands on resistors.  
 - Input the bands and get the resistance value in ohms  
 - Useful for electronics, PCB work, and lab practice  
@@ -27,7 +27,7 @@ A tool for interpreting the color bands on resistors.
 
 ---
 
-### 3. Basic Calculator
+### 3. Basic Calculator(Calculadora)
 A simple arithmetic calculator for fundamental operations.  
 - Addition, subtraction, multiplication, and division  
 - Good starting point for beginners learning Java  
